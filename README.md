@@ -29,6 +29,6 @@ This project is developed to provide a simple and useful solution for the given 
 
 ## Screenshots
 
-![Project Screenshot](image.jpg)
+![Project Screenshot](images.jpg)
 
 ## Conclusion
